@@ -1,5 +1,5 @@
 ## Hi there 👋 I'm ELMOURABEA!
-
+<<{MeGOctoGeN}{MEGAGEN-4-ALL}{PHARMAINTEL-API}{ECO-STORM}>>
 <div align="center">
 
 ![Profile Views](https://komarev.com/ghpvc/?username=ELMOURABEA&color=blueviolet&style=flat-square)
@@ -48,6 +48,7 @@ I'm always excited to connect with fellow developers and open-source enthusiasts
 - 🎨 **Ko-fi:** [ELMOURABEA](https://ko-fi.com/ELMOURABEA)
 - 📺 **Patreon:** [ELMOURABEA](https://patreon.com/ELMOURABEA)
 - ⚡ **Polar:** [ELMOURABEA](https://polar.sh/ELMOURABEA)
+- ™️**for_ads** [ELMOURABEA](m.elmourabea@gmail.com)
 
 ### 📊 GitHub Stats
 
