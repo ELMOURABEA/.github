@@ -3,7 +3,7 @@
 <div align="center">
 
 ![Profile Views](https://komarev.com/ghpvc/?username=ELMOURABEA&color=blueviolet&style=flat-square)
-[![GitHub followers](https://img.shields.io/github/followers/ELMOURABEA?label=Follow&style=social)](https://github.com/ELMOURABEA 
+[![GitHub followers](https://img.shields.io/github/followers/ELMOURABEA?label=Follow&style=social)](https://github.com/ELMOURABEA)
 [![Sponsor](https://img.shields.io/badge/Sponsor-💖-pink?style=flat-square)](https://github.com/sponsors/ELMOURABEA)
 
 </div>
@@ -40,6 +40,10 @@ Creating quality open-source software takes time and dedication. Your support he
 
 Check out my repositories and feel free to contribute, star, or share them with others who might find them useful!
 
+### 📱 Apps
+
+Looking for my latest apps? Explore them in the repositories list and check out the pinned projects for highlights.
+
 ### 🤝 Let's Connect
 
 I'm always excited to connect with fellow developers and open-source enthusiasts:
@@ -48,7 +52,7 @@ I'm always excited to connect with fellow developers and open-source enthusiasts
 - 🎨 **Ko-fi:** [ELMOURABEA](https://ko-fi.com/ELMOURABEA)
 - 📺 **Patreon:** [ELMOURABEA](https://patreon.com/ELMOURABEA)
 - ⚡ **Polar:** [ELMOURABEA](https://polar.sh/ELMOURABEA)
-- ™️**for_ads** [ELMOURABEA](m.elmourabea@gmail.com)
+- ™️**for_ads** [ELMOURABEA](mailto:m.elmourabea@gmail.com)
 
 ### 📊 GitHub Stats
 
