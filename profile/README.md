@@ -1,5 +1,4 @@
-## Hi there 👋 I'm DR_Ai
-<<{MeGOctoGeN}{MEGAGEN-4-ALL}{PHARMAINTEL-API}{ECO-STORM}>>
+## MoSTa®
 <div align="center">
 
 ![Profile Views](https://komarev.com/ghpvc/?username=ELMOURABEA&color=blueviolet&style=flat-square)
